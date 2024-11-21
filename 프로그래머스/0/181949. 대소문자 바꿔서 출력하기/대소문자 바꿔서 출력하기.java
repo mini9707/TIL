@@ -18,4 +18,7 @@ public class Solution {
         }
         System.out.println(c);
     }
+    // charAt() -> String 문자열 char 문자로 떼어내기
+    // isUpperCase -> 대문자인지 확인(boolean)
+    // toLowerCase, toUpperCase -> 대문자/소문자 변환
 }
