@@ -7,5 +7,10 @@ class Solution {
         answer += my_string.substring(0,s) + overwrite_string + my_string.substring(l2+s, l);
             
         return answer;
+
+        // 다른 사람 답 goat
+        // String before = my_string.substring(0, s);
+        // String after = my_string.substring(s + overwrite_string.length());
+        // return before + overwrite_string + after;
     }
 }
